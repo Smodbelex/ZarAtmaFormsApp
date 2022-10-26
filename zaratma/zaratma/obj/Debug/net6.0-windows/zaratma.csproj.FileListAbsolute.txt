@@ -1,0 +1,17 @@
+C:\Users\emir_\source\repos\zaratma\zaratma\bin\Debug\net6.0-windows\zaratma.exe
+C:\Users\emir_\source\repos\zaratma\zaratma\bin\Debug\net6.0-windows\zaratma.deps.json
+C:\Users\emir_\source\repos\zaratma\zaratma\bin\Debug\net6.0-windows\zaratma.runtimeconfig.json
+C:\Users\emir_\source\repos\zaratma\zaratma\bin\Debug\net6.0-windows\zaratma.dll
+C:\Users\emir_\source\repos\zaratma\zaratma\bin\Debug\net6.0-windows\zaratma.pdb
+C:\Users\emir_\source\repos\zaratma\zaratma\obj\Debug\net6.0-windows\zaratma.csproj.AssemblyReference.cache
+C:\Users\emir_\source\repos\zaratma\zaratma\obj\Debug\net6.0-windows\zaratma.Form1.resources
+C:\Users\emir_\source\repos\zaratma\zaratma\obj\Debug\net6.0-windows\zaratma.csproj.GenerateResource.cache
+C:\Users\emir_\source\repos\zaratma\zaratma\obj\Debug\net6.0-windows\zaratma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir_\source\repos\zaratma\zaratma\obj\Debug\net6.0-windows\zaratma.AssemblyInfoInputs.cache
+C:\Users\emir_\source\repos\zaratma\zaratma\obj\Debug\net6.0-windows\zaratma.AssemblyInfo.cs
+C:\Users\emir_\source\repos\zaratma\zaratma\obj\Debug\net6.0-windows\zaratma.csproj.CoreCompileInputs.cache
+C:\Users\emir_\source\repos\zaratma\zaratma\obj\Debug\net6.0-windows\zaratma.dll
+C:\Users\emir_\source\repos\zaratma\zaratma\obj\Debug\net6.0-windows\refint\zaratma.dll
+C:\Users\emir_\source\repos\zaratma\zaratma\obj\Debug\net6.0-windows\zaratma.pdb
+C:\Users\emir_\source\repos\zaratma\zaratma\obj\Debug\net6.0-windows\zaratma.genruntimeconfig.cache
+C:\Users\emir_\source\repos\zaratma\zaratma\obj\Debug\net6.0-windows\ref\zaratma.dll
